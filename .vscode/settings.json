@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tm": "c",
+        "source_location": "cpp"
+    }
+}
